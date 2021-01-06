@@ -20,7 +20,9 @@ Hackintosh Thinkpad E480
 
 * Update OpenCore to 0.6.5 to support MacOS BigSur 11.1
 * Update some kexts 
+* Add CtlnaAHCIPort.kext MinKernel set to 20.0.0
 
+## Current 
 * Currently supports MacOS Catalina 10.15.6. Not yet tested on MacOS BigSur.
 * Keep up with the times and adopt OC guidance.
 * The Cpu driver is loaded normally and the frequency conversion is normal.
