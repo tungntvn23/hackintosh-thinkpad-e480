@@ -28,7 +28,7 @@ Hackintosh Thinkpad E480
 * The Cpu driver is loaded normally and the frequency conversion is normal.
 * The battery display is normal.
 * Wake up from sleep is normal.
-* Replace the BCM94352Z network card, Bluetooth, Wireless, and AirDrop are normal (the built-in Realtek 8821CE has no solution).
+* Replace the BCM94352Z network card, Bluetooth, Wireless, Handoff, and AirDrop are normal. Airplay not working.
 * The wired network card is normal.
 * The integrated graphics driver is normal, 4k is normal, and the independent graphics card is blocked.
 * The sound card injects id14 and works normally.
