@@ -21,16 +21,25 @@ Hackintosh Thinkpad E480
 Update OpenCore to 0.6.5
 Update some kexts 
 
-Currently supports the latest version 10.15.6.
-Keep up with the times and adopt OC guidance.
-The Cpu driver is loaded normally and the frequency conversion is normal.
-The battery display is normal.
-Wake up from sleep is normal.
-Replace the BCM94352Z network card, Bluetooth, Wireless, and AirDrop are normal (the built-in Realtek 8821CE has no solution).
-The wired network card is normal.
-The integrated graphics driver is normal, 4k is normal, and the independent graphics card is blocked.
-The sound card injects id14 and works normally.
-The USB port is normal.
+-Currently supports the latest version 10.15.6.
+-Keep up with the times and adopt OC guidance.
+-The Cpu driver is loaded normally and the frequency conversion is normal.
+-The battery display is normal.
+-Wake up from sleep is normal.
+-Replace the BCM94352Z network card, Bluetooth, Wireless, and AirDrop are normal (the built-in Realtek 8821CE has no solution).
+-The wired network card is normal.
+-The integrated graphics driver is normal, 4k is normal, and the independent graphics card is blocked.
+-The sound card injects id14 and works normally.
+-The USB port is normal.
+
+## Recommended BIOS Config
+
+- Security
+  - Intel SGX: Disabled
+- Boot
+  - Boot Mode: Both UEFI and Legacy
+  - Boot Priority: UEFI First
+  - Fast Boot: Disabled
 
 ## Thanks
 
