@@ -18,10 +18,10 @@ Hackintosh Thinkpad E480
 
 ### 2021-01-06
 
-* Update OpenCore to 0.6.5
+* Update OpenCore to 0.6.5 to support MacOS BigSur 11.1
 * Update some kexts 
 
-* Currently supports the latest version 10.15.6.
+* Currently supports MacOS Catalina 10.15.6. Not yet tested on MacOS BigSur.
 * Keep up with the times and adopt OC guidance.
 * The Cpu driver is loaded normally and the frequency conversion is normal.
 * The battery display is normal.
