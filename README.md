@@ -7,7 +7,7 @@ Hackintosh Thinkpad E480
 |:---|:---|
 | Computer Model | ThinkPad E480 (2018) |
 | CPU | Intel Core i5-8250U |
-| Memory | DDR4 2400 Mhz. Manually upgrade to 2x4 GB |
+| Memory | DDR4 2400 Mhz. 2x4 GB |
 | SATA SSD | Manually change to SAMSUNG 860 Evo SATA 1 TB |
 | Integrated Graphics | Intel UHD Graphics 620 |
 | Ethernet | RTL8168/8111/8112 Gigabit Ethernet Controller |
@@ -31,7 +31,6 @@ The wired network card is normal.
 The integrated graphics driver is normal, 4k is normal, and the independent graphics card is blocked.
 The sound card injects id14 and works normally.
 The USB port is normal.
-
 
 ## Thanks
 
