@@ -1,5 +1,5 @@
 # hackintosh-thinkpad-e480
-Hackintosh Thinkpad E480 BigSur MacOS 11.1
+Hackintosh Thinkpad E480 MacOS 11.1 Big Sur 
 
 ## Computer Configuration
 
@@ -18,19 +18,19 @@ Hackintosh Thinkpad E480 BigSur MacOS 11.1
 
 ### 2021-01-07
 
-* Support MacOS BigSur 11.1
+* Support MacOS Big Sur 11.1
 * Remove SMCSuperIO.kext failed to detect supported SuperIO Chip.
 * Remove FakePCIID_Broadcom_WiFi.kext
 * Block AirPortBrcm4360_Injector.kext
 
 ### 2021-01-06
 
-* Update OpenCore to 0.6.5 to support MacOS BigSur 11.1
+* Update OpenCore to 0.6.5 to support MacOS Big Sur 11.1
 * Update some kexts 
 * Add CtlnaAHCIPort.kext MinKernel set to 20.0.0
 
 ## Current 
-* Currently supports MacOS Catalina 10.15.6 and MacOS BigSur 11.1.
+* Currently supports MacOS Catalina 10.15.6 and MacOS Big Sur 11.1.
 * Keep up with the times and adopt OC guidance.
 * The Cpu driver is loaded normally and the frequency conversion is normal.
 * The battery display is normal.
